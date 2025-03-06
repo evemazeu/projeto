@@ -1,0 +1,85 @@
+        matchingRules_payload = {
+          "numberOfRequestedRecords": records,
+          "numberOfRequestedRecordsPostSorting": topnrecords,
+          "configurations": {
+            "*": {
+              "name": "*",
+              "description": "Configurations in this partition will override all the others",
+              "matchingRules": {"matchBand": True,
+                                "matchAvailabilityDate": True,
+                                "matchPrimaryJrs": True,
+                                "matchWorkLocation":  False,
+                                "matchLob": True,
+                                "matchNiceToHaveSkills": True,
+                                "matchMustHaveSkills": True,
+                                "matchLanguage": True,
+                                "matchResourceType": True,
+                                "matchSecondaryJrs": True},
+             "rankingRules": { "sortOrder": ["MATCH_SCORE"],
+                              "matchScoreConfiguration": {
+	   		                    "quantifiers":["BAND_SCORE","AVAILABILITY_SCORE","JRS_SCORE","LANGUAGE_SCORE", "LOCATION_SCORE", "REQUIRED_SKILLS_SCORE"],
+                    	   		"languageQuantifiers": {
+			                            "LANGUAGES_MATCH_FULL": 10.0,
+			                            "LANGUAGES_MATCH_PARTIAL": 5.0,
+			                            "NO_LANGUAGES_MATCH": 0.0,
+			                            "LANGUAGES_NOT_REQUIRED": 0
+                                        } #End of languageQuantifiers                                  
+                                   ,"bandQuantifiers":{
+                                              "BAND_WITHIN_RANGE": 10.0,
+                                              "BAND_BELOW_1_RANGE": 5.0,
+                                              "BAND_ABOVE_1_RANGE": 3.0,
+                                              "NO_BAND_MATCH": 0.0 
+                                              } # End of bandQuantifiers
+                                   ,"requiredSkillsQuantifiers": {
+                                                            "REQUIRED_SKILLS_MATCH_100": 30.0,
+                                                            "REQUIRED_SKILLS_MATCH_90": 27.0,
+                                                            "REQUIRED_SKILLS_MATCH_80": 24.0,
+                                                            "REQUIRED_SKILLS_MATCH_70": 21.0,
+                                                            "REQUIRED_SKILLS_MATCH_60": 18.0,
+                                                            "REQUIRED_SKILLS_MATCH_50": 15.0,
+                                                            "REQUIRED_SKILLS_MATCH_40": 12.0,
+                                                            "REQUIRED_SKILLS_MATCH_30": 9.0,
+                                                            "REQUIRED_SKILLS_MATCH_20": 6.0,
+                                                            "REQUIRED_SKILLS_MATCH_10": 3.0,
+                                                            "NO_REQUIRED_SKILLS_MATCH": 0.0,
+                                                            "REQUIRED_SKILLS_NOT_PROVIDED": 0.0
+                                                            } #End of Required SkillsQuantifiers
+                                   } # end of matchScoreConfiguration
+                              }# en of rankingRules
+             ,"immediateAvailabilityDays": availabilitydays,
+             "lowBandSlack": 1, 
+             "highBandSlack": 1,
+             "maxMustHaveKeywords": 0,
+             "maxNiceToHaveKeywords":-1,
+            "fieldsToRetrieve": ['AVAILABILITY_DATE'
+                              ,'BAND'
+                              ,'CNUM_ID'
+                              ,'FULL_NAME'
+                              ,'GEO_SPECIFIC_ORGANIZATION'
+                              ,'INDUSTRY'
+                              ,'INDUSTRY_EXPERTISE'
+                              ,'LANGUAGE'
+                              ,'MYSA_TALENT_POOL_LOB'
+                              ,'NOTES_ID'
+                              ,'PRIMARY_JRSS'
+                              ,'RDM_COMMENTS'
+                              ,'RESOURCE_TYPE'
+                              ,'SECONDARY_JRSS'
+                              ,'SERVICE'
+                              ,'WORK_LOCATION_CITY'
+                              ,'WORK_LOCATION_COUNTRY'
+                              ,'WORK_LOCATION_IMT'
+                              ,'WORK_LOCATION_IOT'
+                              ,'SERVICE_AREA'
+                              ,'SECTOR'
+                              ,'RSA_VALUES_MASK']}
+          },
+          "targetDocumentType": "PRACTITIONER",
+          "targetDocumentSelection":[
+              {"name": "WORK_LOCATION_IOT",  'selections': [worklocation_IOT]},
+              {"name": "WORK_LOCATION_IMT",  'selections': [worklocation_IMT]},
+              {"name": "DEPLOYABILITY", "selections": ["Full"]},
+              {"name": "WORK_LOCATION_COUNTRY", "selections": ["! Austria"]},
+              {"name": "XPATH", "selections":["xpath not( $WORK_LOCATION_COUNTRY='United States' and ($DIVISION='16' or $DIVISION='1P') )"]}],
+         
+          }#End of Payload

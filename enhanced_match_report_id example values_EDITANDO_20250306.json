@@ -1,0 +1,1742 @@
+{
+  "id": "string",
+  "status": "PROCESSING",
+  "matches": {
+    "numberOfRequestedRecords": records,
+    "numberOfRequestedRecordsPostSorting": topnrecords,
+    "totalMatchesPerDocument": {
+      "additionalProp1": 0,
+      "additionalProp2": 0,
+      "additionalProp3": 0
+    },
+    "practitioners": [
+      {
+        "availabilityDate": "2025-03-06T18:53:51.840Z",
+        "availabilityDateSeconds": 0,
+        "availabilityDateWithOffset": 0,
+        "extensionDateFlag": "string",
+        "availabilityDateLockFlag": "string",
+        "badges": [
+          "string"
+        ],
+        "band": "string",
+        "subBand": "string",
+        "originalBand": "string",
+        "bandSort": "string",
+        "cellPhone": "string",
+        "certifications": "string",
+        "cnum": "string",
+        "serialNumber": "string",
+        "countryCode": "string",
+        "purchaseOrderNumber": "string",
+        "priceLevel": "string",
+        "deployability": "string",
+        "email": "string",
+        "fullName": "string",
+        "firstName": "string",
+        "middleName": "string",
+        "lastName": "string",
+        "sapCompanyName": "string",
+        "emfCompanyCode": "string",
+        "countryCompanyLabel": "string",
+        "industry": "string",
+        "industryExperience": "string",
+        "industryExpertise": "string",
+        "industryExpertiseFacet": "string",
+        "jobRole": "string",
+        "jobResponsibility": "string",
+        "language": [
+          "string"
+        ],
+        "languageFacet": [
+          "string"
+        ],
+        "languageProficiencyFacet": [
+          "string"
+        ],
+        "lastWeekUtilization": 0,
+        "lastWeekUtilizationFacet": "string",
+        "lastWeekUtilizationIndexedTimeSeconds": 0,
+        "managerEmailAddress": "string",
+        "executiveJobRole": "string",
+        "managerName": "string",
+        "rsaName": "string",
+        "staffingReviewerName": "string",
+        "managerValues": "string",
+        "mysaCostRate": "string",
+        "fiscaName": "string",
+        "costRateAmOnshoreFacet": 0,
+        "costRateNonAmOnshoreFacet": 0,
+        "costRateOffshoreFacet": 0,
+        "costRateUsFdFacet": 0,
+        "costRateUsNpFacet": 0,
+        "costRateUsOdFacet": 0,
+        "costRateUsPcFacet": 0,
+        "costRateOtherFacet": 0,
+        "costRateAmOnShoreFd": 0,
+        "costRateAmOnShoreNp": 0,
+        "costRateAmOnShoreOd": 0,
+        "costRateAmOnShorePc": 0,
+        "costRateNonAmOnshoreFd": 0,
+        "costRateNonAmOnshoreNp": 0,
+        "costRateNonAmOnshoreOd": 0,
+        "costRateNonAmOnshorePc": 0,
+        "costRateOffshoreFd": 0,
+        "costRateOffshoreNp": 0,
+        "costRateOffshoreOd": 0,
+        "costRateOffshorePc": 0,
+        "practitionerIndicator": "string",
+        "contractorFlag": "string",
+        "mysaPractitionerIndicator": "string",
+        "promotionReadyFlag": "string",
+        "promotionNextJrs": "string",
+        "promotionNextBand": "string",
+        "mysaTPLob": "string",
+        "next4WeeksChargeableHours": 0,
+        "next4WeeksChargeableHoursFacet": "string",
+        "next4WeeksChargeableHoursPromFacet": "string",
+        "practitionerId": "string",
+        "employeeTypeDesc": "string",
+        "rulesOfEngagement": "string",
+        "division": "string",
+        "practitionerIdPersonalInfRule": "string",
+        "primaryJrss": "string",
+        "primaryJrsSkills": [
+          "string"
+        ],
+        "rdmComments": "string",
+        "proposedCustomer": "string",
+        "resourceType": "string",
+        "resumeText": [
+          "string"
+        ],
+        "resumeMask": [
+          "string"
+        ],
+        "resumeLinks": [
+          "string"
+        ],
+        "resumeFile": [
+          "string"
+        ],
+        "clients": "string",
+        "rsaValues": "string",
+        "secondaryJrss": "string",
+        "title": "string",
+        "allJrss": [
+          "string"
+        ],
+        "allJrsList": [
+          "string"
+        ],
+        "skills": [
+          "string"
+        ],
+        "skillSet": "string",
+        "staffingReviewerValues": "string",
+        "tpProfessionalId": "string",
+        "talentPoolId": "string",
+        "talentPoolName": "string",
+        "tpType": "string",
+        "talentPoolOrg": "string",
+        "mobilityInd": "string",
+        "visaCountry": [
+          "string"
+        ],
+        "visaExpirationDate": [
+          "string"
+        ],
+        "visaStatus": [
+          "string"
+        ],
+        "visaType": [
+          "string"
+        ],
+        "visaMask": [
+          "string"
+        ],
+        "workPhoneNumber": "string",
+        "globalDeliveryCenter": "string",
+        "workLocationCity": "string",
+        "workLocationCountry": "string",
+        "workLocationFull": "string",
+        "workLocationIMT": "string",
+        "workLocationIOT": "string",
+        "workLocationState": "string",
+        "workLocationTimezone": "string",
+        "geoSpecificOrganization": "string",
+        "service": "string",
+        "serviceArea": "string",
+        "serviceServiceArea": "string",
+        "sector": "string",
+        "sectorIndustry": "string",
+        "professionalDevelopmentIndex": "string",
+        "cocName": "string",
+        "competency": "string",
+        "competencySegment": "string",
+        "competencyCompetencySegment": "string",
+        "department": "string",
+        "isvVendor": "string",
+        "isvVendorFacet": "string",
+        "availableRotation": 0,
+        "rotationStatus": "string",
+        "rotationEffectiveDate": "2025-03-06T18:53:51.840Z",
+        "mysaRotationStatus": "string",
+        "mysaRotationEffectiveDate": "2025-03-06T18:53:51.840Z",
+        "rotationIndexedTimeSeconds": "string",
+        "gbsEarlyProfHireProgram": "string",
+        "preferFlexibleWorkSchedule": "string",
+        "preferFelixibleWorkScheduleFacet": "string",
+        "preferRemoteWork": "string",
+        "preferRemoteWorkFacet": "string",
+        "preferWorkLocationComments": "string",
+        "preferWorkLocationIOT": [
+          "string"
+        ],
+        "preferWorkLocationsHierarchy": [
+          "string"
+        ],
+        "preferWorkLocations": [
+          "string"
+        ],
+        "similarJRS": [
+          {
+            "jrsA": "string",
+            "jrsB": "string",
+            "getaToBProjectedTrainingWeeks": "string",
+            "getbToAProjectedTrainingWeeks": "string",
+            "similaryRanking": 0,
+            "similarityScore": 0,
+            "similarityScorePercentile": 0,
+            "jrs": "string",
+            "lob": "string"
+          }
+        ],
+        "resumeKeywords": [
+          "string"
+        ],
+        "jrsKeywords": [
+          "string"
+        ],
+        "badgesKeywords": [
+          "string"
+        ],
+        "certificationKeywords": [
+          "string"
+        ],
+        "skillsKeywords": [
+          "string"
+        ],
+        "primaryJrsSkillsKeywords": [
+          "string"
+        ],
+        "similarJrsKeywords": [
+          "string"
+        ],
+        "rdmCommentsKeywords": [
+          "string"
+        ],
+        "mustHaveKeywords": [
+          {
+            "keyword": "string",
+            "filterLogic": "MUST_HAVE",
+            "synonyms": [
+              "string"
+            ]
+          }
+        ],
+        "niceToHaveKeywords": [
+          {
+            "keyword": "string",
+            "filterLogic": "MUST_HAVE",
+            "synonyms": [
+              "string"
+            ]
+          }
+        ],
+        "partition": {
+          "name": "string",
+          "description": "string",
+          "criteria": [
+            {
+              "name": "string",
+              "selections": [
+                "string"
+              ],
+              "caseSensitiveSelection": true
+            }
+          ],
+          "enableToOnlyTheseApplications": [
+            "MYSA"
+          ],
+          "matchingRules": {
+            "matchMySAScope": {
+              "enabled": true,
+              "enableContractors": true
+            },
+            "matchResourceType": {
+              "enabled": true
+            },
+            "matchLob": {
+              "enabled": true
+            },
+            "matchWorkLocation": {
+              "enabled": true,
+              "matchMethod": "IOT"
+            },
+            "matchAvailabilityDate": {
+              "enabled": true,
+              "immediateAvailabilityDays": 0,
+              "earlyArrivalDays": 0,
+              "lateArrivalDays": 0,
+              "lowForecastedHoursThreshold": 0
+            },
+            "matchBand": {
+              "enabled": true,
+              "lowBandSlack": 0,
+              "highBandSlack": 0,
+              "matchNextBand": true
+            },
+            "matchLanguages": {
+              "enabled": true,
+              "mustMatchAllSeatLanguages": true
+            },
+            "matchKeywords": {
+              "enabled": true,
+              "maxMustHaveKeywords": 0,
+              "maxNiceToHaveKeywords": 0
+            },
+            "matchJrs": {
+              "enabled": true,
+              "matchPrimaryJrs": true,
+              "matchSecondaryJrs": true,
+              "matchAdjacentJrs": true,
+              "matchNextJrs": true,
+              "maxJrsSimilarityRank": 0,
+              "minJrsSimilarityScorePercentile": 0,
+              "minSecJrsAssessmentLevel": 0,
+              "minSecJrsAssessmentType": "string",
+              "disableSecondaryAndAdjacentForB5AndAbove": true
+            },
+            "matchPriority": {
+              "enabled": true
+            },
+            "matchDynamicDelivery": {
+              "enabled": true
+            }
+          },
+          "rankingRules": {
+            "sortOrder": [
+              "WEX_SCORE"
+            ],
+            "topsisConfiguration": {
+              "balancePdiWeightWithJrsTechnicality": true,
+              "criteria": [
+                {
+                  "name": "MATCH_SCORE",
+                  "weight": 0,
+                  "negative": true
+                }
+              ]
+            },
+            "matchScoreConfiguration": {
+              "quantifiers": [
+                "JRS_SCORE"
+              ],
+              "jrsQuantifiers": {
+                "PRIMARY_JRS_MATCH": 0,
+                "NEXT_JRS_MATCH": 0,
+                "SECONDARY_JRS_MATCH": 0,
+                "ADJACENT_JRS_MATCH_100": 0,
+                "ADJACENT_JRS_MATCH_90": 0,
+                "ADJACENT_JRS_MATCH_80": 0,
+                "ADJACENT_JRS_MATCH_70": 0,
+                "ADJACENT_JRS_MATCH_60": 0,
+                "ADJACENT_JRS_MATCH_50": 0,
+                "ADJACENT_JRS_MATCH_40": 0,
+                "ADJACENT_JRS_MATCH_30": 0,
+                "ADJACENT_JRS_MATCH_20": 0,
+                "ADJACENT_JRS_MATCH_10": 0,
+                "NO_JRS_MATCH": 0
+              },
+              "requiredSkillsQuantifiers": {
+                "REQUIRED_SKILLS_MATCH_100": 0,
+                "REQUIRED_SKILLS_MATCH_90": 0,
+                "REQUIRED_SKILLS_MATCH_80": 0,
+                "REQUIRED_SKILLS_MATCH_70": 0,
+                "REQUIRED_SKILLS_MATCH_60": 0,
+                "REQUIRED_SKILLS_MATCH_50": 0,
+                "REQUIRED_SKILLS_MATCH_40": 0,
+                "REQUIRED_SKILLS_MATCH_30": 0,
+                "REQUIRED_SKILLS_MATCH_20": 0,
+                "REQUIRED_SKILLS_MATCH_10": 0,
+                "NO_REQUIRED_SKILLS_MATCH": 0,
+                "REQUIRED_SKILLS_NOT_PROVIDED": 0
+              },
+              "niceToHaveSkillsQuantifiers": {
+                "NICE_TO_HAVE_SKILLS_MATCH_100": 0,
+                "NICE_TO_HAVE_SKILLS_MATCH_90": 0,
+                "NICE_TO_HAVE_SKILLS_MATCH_80": 0,
+                "NICE_TO_HAVE_SKILLS_MATCH_70": 0,
+                "NICE_TO_HAVE_SKILLS_MATCH_60": 0,
+                "NICE_TO_HAVE_SKILLS_MATCH_50": 0,
+                "NICE_TO_HAVE_SKILLS_MATCH_40": 0,
+                "NICE_TO_HAVE_SKILLS_MATCH_30": 0,
+                "NICE_TO_HAVE_SKILLS_MATCH_20": 0,
+                "NICE_TO_HAVE_SKILLS_MATCH_10": 0,
+                "NO_NICE_TO_HAVE_SKILLS_MATCH": 0
+              },
+              "bandQuantifiers": {
+                "BAND_WITHIN_RANGE": 0,
+                "BAND_BELOW_1_RANGE": 0,
+                "BAND_ABOVE_1_RANGE": 0,
+                "NO_BAND_MATCH": 0,
+                "NEXT_BAND_MATCH": 0
+              },
+              "languageQuantifiers": {
+                "LANGUAGES_MATCH_FULL": 0,
+                "LANGUAGES_MATCH_PARTIAL": 0,
+                "NO_LANGUAGES_MATCH": 0,
+                "LANGUAGES_NOT_REQUIRED": 0
+              },
+              "locationQuantifiers": {
+                "LOCATION_SAME_CITY": 0,
+                "LOCATION_SAME_COUNTRY": 0,
+                "LOCATION_SAME_MARKET": 0,
+                "LOCATION_SAME_GEO_IOT": 0,
+                "NO_LOCATION_MATCH": 0
+              },
+              "timezoneQuantifiers": {
+                "TIMEZONE_DELIVERY_CENTER_MATCH": 0,
+                "TIMEZONE_BEST_COUNTRY_MATCH": 0,
+                "TIMEZONE_MATCH_GIC_STANDARD": 0,
+                "TIMEZONE_MATCH_GIC_EXTENDED": 0,
+                "TIMEZONE_CONTRACT_OWNING_COUNTRY_MATCH": 0,
+                "TIMEZONE_CONTRACT_OWNING_GEO_MATCH": 0,
+                "TIMEZONE_MATCH_GEO_STANDARD": 0,
+                "TIMEZONE_MATCH_GEO_EXTENDED": 0,
+                "TIMEZONE_NO_MATCH": 0
+              },
+              "availabilityDateQuantifiers": {
+                "AVAIL_DATE_WITHIN_7_DAYS_OF_START_DATE": 0,
+                "AVAIL_DATE_WITHIN_14_DAYS_OF_START_DATE": 0,
+                "AVAIL_DATE_NOT_WITHIN_14_DAYS_RANGE": 0,
+                "PRACTITIONER_AVAILABLE_NOW": 0,
+                "PRACTITIONER_AVAILABLE_WITHIN_7_DAYS": 0,
+                "PRACTITIONER_AVAILABLE_WITHIN_8_14_DAYS": 0,
+                "PRACTITIONER_AVAILABLE_WITHIN_15_21_DAYS": 0,
+                "PRACTITIONER_AVAILABLE_WITHIN_22_30_DAYS": 0,
+                "PRACTITIONER_NOT_AVAILABLE_WITHIN_30_DAYS": 0
+              },
+              "serviceQuantifiers": {
+                "SERVICE_AREA_MATCH": 0,
+                "SERVICE_MATCH": 0,
+                "NO_SERVICE_MATCH": 0
+              }
+            }
+          },
+          "targetDocumentSelection": [
+            {
+              "name": "string",
+              "selections": [
+                "string"
+              ],
+              "caseSensitiveSelection": true
+            }
+          ]
+        },
+        "inBench": true
+      }
+    ],
+    "openSeats": [
+      {
+        "osID": "string",
+        "title": "string",
+        "type": "string",
+        "csaRequestId": "string",
+        "mySASeatLob": "string",
+        "jobRole": "string",
+        "skillSet": "string",
+        "vendor": "string",
+        "startDate": 0,
+        "startDateFormatted": "string",
+        "endDateFormatted": "string",
+        "endDate": 0,
+        "durationInDays": 0,
+        "keyRole": "string",
+        "pcwFlag": "string",
+        "mysaOpenSeatIndicator": "string",
+        "mySAIndicator": "string",
+        "grProviderCountryIOT": "string",
+        "grProviderCountry": "string",
+        "gicProviderCountryDeliveryCenter": "string",
+        "grEstimatedStartDate": 0,
+        "grProjectManagerMask": "string",
+        "ibmCoverageType": "string",
+        "locUse": "string",
+        "globalBuyingGroupName": "string",
+        "globalBuyingGroupNameFacet": "string",
+        "globalBuyingGroupId": "string",
+        "payTravelAndLodging": "string",
+        "requestedBandLow": "string",
+        "requestedBandHigh": "string",
+        "bandFacet": [
+          "string"
+        ],
+        "subBandFacet": [
+          "string"
+        ],
+        "allBandFacet": [
+          "string"
+        ],
+        "bandRange": 0,
+        "requestedLanguage": [
+          "string"
+        ],
+        "requiredSkills": "string",
+        "niceToHaveSkills": "string",
+        "jrsSkills": "string",
+        "workLocationIOT": "string",
+        "workLocationIMT": "string",
+        "workLocationState": "string",
+        "workLocationCountry": "string",
+        "workLocationCity": "string",
+        "workLocationZip": "string",
+        "mysaWorkLocationIOT": "string",
+        "mysaWorkLocationIMT": "string",
+        "mysaWorkLocationCountry": "string",
+        "mysaWorkLocationState": "string",
+        "mysaWorkLocationCity": "string",
+        "mysaWorkLocationFull": "string",
+        "globalDeliveryCenter": "string",
+        "requestedBandHighSort": "string",
+        "requestedBandLowSort": "string",
+        "accountClassificationSorting": 0,
+        "gbsAccountClassification": "string",
+        "gbsAccountClusterName": "string",
+        "projectContactMask": "string",
+        "projectContact": "string",
+        "projectContactName": "string",
+        "projectContactEmail": "string",
+        "projectContactCnum": "string",
+        "jrs": "string",
+        "industry": "string",
+        "sector": "string",
+        "sectorIndustry": "string",
+        "ica": "string",
+        "contractType": "string",
+        "contractStatus": "string",
+        "contractOwningOrganization": "string",
+        "deliveryOrganization": "string",
+        "fulfillmentOrganization": "string",
+        "financialInterlock": "string",
+        "financialInterlockApprovedTime": 0,
+        "financialInterlockApprovedBy": "string",
+        "priorityRanking": "string",
+        "clientType": "string",
+        "clientName": "string",
+        "globalClientName": "string",
+        "priorityGroupCode": "string",
+        "priorityGroupName": "string",
+        "hoursPerWeek": 0,
+        "projectName": "string",
+        "projectType": "string",
+        "clientProjectName": "string",
+        "claimAccountId": "string",
+        "hireRequestNumber": "string",
+        "projectDescription": "string",
+        "additionalComments": "string",
+        "requestedCompany": "string",
+        "grProgramManagerFullName": "string",
+        "grProgramManagerName": "string",
+        "grProjectManagerFullName": "string",
+        "grProjectManagerName": "string",
+        "urgentPriority": "string",
+        "urgentPriorityReason": "string",
+        "citizenshipResidencyRequired": "string",
+        "neededLandedResourceFlag": "string",
+        "preferredFulfillmentCountry": "string",
+        "preferredResourceChannel": "string",
+        "laborCategory": "string",
+        "casCompliant": "string",
+        "estimatedCostRate": 0,
+        "contractorRequestType": "string",
+        "opportunityOwnerName": "string",
+        "opportunityName": "string",
+        "opportunityCrmId": "string",
+        "staffingPlanId": 0,
+        "staffingPlanName": "string",
+        "externalReference": "string",
+        "rpaId": "string",
+        "metroRequestId": 0,
+        "metroAwareFlag": "string",
+        "tramRequestId": "string",
+        "csegConfirmFlag": "string",
+        "csegEnableFlag": "string",
+        "csegRestriction": "string",
+        "csegComments": "string",
+        "csegDeliveryCountryType": "string",
+        "csegCountryName": "string",
+        "csegOwnerName": "string",
+        "createTime": 0,
+        "createUserName": "string",
+        "openTime": 0,
+        "openUserName": "string",
+        "lastUpdateTime": 0,
+        "lastUpdateUserName": "string",
+        "workRemote": "string",
+        "service": "string",
+        "serviceArea": "string",
+        "serviceServiceArea": "string",
+        "serviceComponent": "string",
+        "positionDescription": "string",
+        "positionsRequired": 0,
+        "positionsFilled": 0,
+        "positionsStillNeeded": 0,
+        "candidateTrackingStatus": "string",
+        "acceptContractors": "string",
+        "backfill": "string",
+        "backfillType": "string",
+        "backfillReason": "string",
+        "fulfillmentRisk": "string",
+        "fulfillmentRiskSort": 0,
+        "fulfillmentSource": "string",
+        "ownerCountry": "string",
+        "ownerCountryIot": "string",
+        "ownerCountryImt": "string",
+        "ownerName": "string",
+        "delegateUserId": "string",
+        "delegateName": "string",
+        "additionalEditorName": [
+          "string"
+        ],
+        "additionalEditorsIndexedTimeSeconds": 0,
+        "fulfillmentManagerName": "string",
+        "deliveryExecutive": "string",
+        "callStatus": "string",
+        "securityClearanceType": "string",
+        "securityClearanceDesc": "string",
+        "dynamicDelivery": "string",
+        "dynamicDeliveryOverlappingHours": "string",
+        "dynamicDeliveryLocationCountry": "string",
+        "dynamicDeliveryLocationCity": "string",
+        "dynamicDeliveryLocationState": "string",
+        "dynamicDeliveryLocationTimeZone": "string",
+        "tramId": "string",
+        "tramPriorityScore": 0,
+        "tramPriorityTier": 0,
+        "positionCandidates": [
+          "string"
+        ],
+        "similarJRS": [
+          {
+            "jrsA": "string",
+            "jrsB": "string",
+            "getaToBProjectedTrainingWeeks": "string",
+            "getbToAProjectedTrainingWeeks": "string",
+            "similaryRanking": 0,
+            "similarityScore": 0,
+            "similarityScorePercentile": 0,
+            "jrs": "string",
+            "lob": "string"
+          }
+        ],
+        "requiredSkillsKeywords": [
+          {
+            "keyword": "string",
+            "filterLogic": "MUST_HAVE",
+            "synonyms": [
+              "string"
+            ]
+          }
+        ],
+        "mustHaveKeywords": [
+          {
+            "keyword": "string",
+            "filterLogic": "MUST_HAVE",
+            "synonyms": [
+              "string"
+            ]
+          }
+        ],
+        "niceToHaveKeywords": [
+          {
+            "keyword": "string",
+            "filterLogic": "MUST_HAVE",
+            "synonyms": [
+              "string"
+            ]
+          }
+        ],
+        "partition": {
+          "name": "string",
+          "description": "string",
+          "criteria": [
+            {
+              "name": "string",
+              "selections": [
+                "string"
+              ],
+              "caseSensitiveSelection": true
+            }
+          ],
+          "enableToOnlyTheseApplications": [
+            "MYSA"
+          ],
+          "matchingRules": {
+            "matchMySAScope": {
+              "enabled": true,
+              "enableContractors": true
+            },
+            "matchResourceType": {
+              "enabled": true
+            },
+            "matchLob": {
+              "enabled": true
+            },
+            "matchWorkLocation": {
+              "enabled": true,
+              "matchMethod": "IOT"
+            },
+            "matchAvailabilityDate": {
+              "enabled": true,
+              "immediateAvailabilityDays": 0,
+              "earlyArrivalDays": 0,
+              "lateArrivalDays": 0,
+              "lowForecastedHoursThreshold": 0
+            },
+            "matchBand": {
+              "enabled": true,
+              "lowBandSlack": 0,
+              "highBandSlack": 0,
+              "matchNextBand": true
+            },
+            "matchLanguages": {
+              "enabled": true,
+              "mustMatchAllSeatLanguages": true
+            },
+            "matchKeywords": {
+              "enabled": true,
+              "maxMustHaveKeywords": 0,
+              "maxNiceToHaveKeywords": 0
+            },
+            "matchJrs": {
+              "enabled": true,
+              "matchPrimaryJrs": true,
+              "matchSecondaryJrs": true,
+              "matchAdjacentJrs": true,
+              "matchNextJrs": true,
+              "maxJrsSimilarityRank": 0,
+              "minJrsSimilarityScorePercentile": 0,
+              "minSecJrsAssessmentLevel": 0,
+              "minSecJrsAssessmentType": "string",
+              "disableSecondaryAndAdjacentForB5AndAbove": true
+            },
+            "matchPriority": {
+              "enabled": true
+            },
+            "matchDynamicDelivery": {
+              "enabled": true
+            }
+          },
+          "rankingRules": {
+            "sortOrder": [
+              "WEX_SCORE"
+            ],
+            "topsisConfiguration": {
+              "balancePdiWeightWithJrsTechnicality": true,
+              "criteria": [
+                {
+                  "name": "MATCH_SCORE",
+                  "weight": 0,
+                  "negative": true
+                }
+              ]
+            },
+            "matchScoreConfiguration": {
+              "quantifiers": [
+                "JRS_SCORE"
+              ],
+              "jrsQuantifiers": {
+                "PRIMARY_JRS_MATCH": 0,
+                "NEXT_JRS_MATCH": 0,
+                "SECONDARY_JRS_MATCH": 0,
+                "ADJACENT_JRS_MATCH_100": 0,
+                "ADJACENT_JRS_MATCH_90": 0,
+                "ADJACENT_JRS_MATCH_80": 0,
+                "ADJACENT_JRS_MATCH_70": 0,
+                "ADJACENT_JRS_MATCH_60": 0,
+                "ADJACENT_JRS_MATCH_50": 0,
+                "ADJACENT_JRS_MATCH_40": 0,
+                "ADJACENT_JRS_MATCH_30": 0,
+                "ADJACENT_JRS_MATCH_20": 0,
+                "ADJACENT_JRS_MATCH_10": 0,
+                "NO_JRS_MATCH": 0
+              },
+              "requiredSkillsQuantifiers": {
+                "REQUIRED_SKILLS_MATCH_100": 0,
+                "REQUIRED_SKILLS_MATCH_90": 0,
+                "REQUIRED_SKILLS_MATCH_80": 0,
+                "REQUIRED_SKILLS_MATCH_70": 0,
+                "REQUIRED_SKILLS_MATCH_60": 0,
+                "REQUIRED_SKILLS_MATCH_50": 0,
+                "REQUIRED_SKILLS_MATCH_40": 0,
+                "REQUIRED_SKILLS_MATCH_30": 0,
+                "REQUIRED_SKILLS_MATCH_20": 0,
+                "REQUIRED_SKILLS_MATCH_10": 0,
+                "NO_REQUIRED_SKILLS_MATCH": 0,
+                "REQUIRED_SKILLS_NOT_PROVIDED": 0
+              },
+              "niceToHaveSkillsQuantifiers": {
+                "NICE_TO_HAVE_SKILLS_MATCH_100": 0,
+                "NICE_TO_HAVE_SKILLS_MATCH_90": 0,
+                "NICE_TO_HAVE_SKILLS_MATCH_80": 0,
+                "NICE_TO_HAVE_SKILLS_MATCH_70": 0,
+                "NICE_TO_HAVE_SKILLS_MATCH_60": 0,
+                "NICE_TO_HAVE_SKILLS_MATCH_50": 0,
+                "NICE_TO_HAVE_SKILLS_MATCH_40": 0,
+                "NICE_TO_HAVE_SKILLS_MATCH_30": 0,
+                "NICE_TO_HAVE_SKILLS_MATCH_20": 0,
+                "NICE_TO_HAVE_SKILLS_MATCH_10": 0,
+                "NO_NICE_TO_HAVE_SKILLS_MATCH": 0
+              },
+              "bandQuantifiers": {
+                "BAND_WITHIN_RANGE": 0,
+                "BAND_BELOW_1_RANGE": 0,
+                "BAND_ABOVE_1_RANGE": 0,
+                "NO_BAND_MATCH": 0,
+                "NEXT_BAND_MATCH": 0
+              },
+              "languageQuantifiers": {
+                "LANGUAGES_MATCH_FULL": 0,
+                "LANGUAGES_MATCH_PARTIAL": 0,
+                "NO_LANGUAGES_MATCH": 0,
+                "LANGUAGES_NOT_REQUIRED": 0
+              },
+              "locationQuantifiers": {
+                "LOCATION_SAME_CITY": 0,
+                "LOCATION_SAME_COUNTRY": 0,
+                "LOCATION_SAME_MARKET": 0,
+                "LOCATION_SAME_GEO_IOT": 0,
+                "NO_LOCATION_MATCH": 0
+              },
+              "timezoneQuantifiers": {
+                "TIMEZONE_DELIVERY_CENTER_MATCH": 0,
+                "TIMEZONE_BEST_COUNTRY_MATCH": 0,
+                "TIMEZONE_MATCH_GIC_STANDARD": 0,
+                "TIMEZONE_MATCH_GIC_EXTENDED": 0,
+                "TIMEZONE_CONTRACT_OWNING_COUNTRY_MATCH": 0,
+                "TIMEZONE_CONTRACT_OWNING_GEO_MATCH": 0,
+                "TIMEZONE_MATCH_GEO_STANDARD": 0,
+                "TIMEZONE_MATCH_GEO_EXTENDED": 0,
+                "TIMEZONE_NO_MATCH": 0
+              },
+              "availabilityDateQuantifiers": {
+                "AVAIL_DATE_WITHIN_7_DAYS_OF_START_DATE": 0,
+                "AVAIL_DATE_WITHIN_14_DAYS_OF_START_DATE": 0,
+                "AVAIL_DATE_NOT_WITHIN_14_DAYS_RANGE": 0,
+                "PRACTITIONER_AVAILABLE_NOW": 0,
+                "PRACTITIONER_AVAILABLE_WITHIN_7_DAYS": 0,
+                "PRACTITIONER_AVAILABLE_WITHIN_8_14_DAYS": 0,
+                "PRACTITIONER_AVAILABLE_WITHIN_15_21_DAYS": 0,
+                "PRACTITIONER_AVAILABLE_WITHIN_22_30_DAYS": 0,
+                "PRACTITIONER_NOT_AVAILABLE_WITHIN_30_DAYS": 0
+              },
+              "serviceQuantifiers": {
+                "SERVICE_AREA_MATCH": 0,
+                "SERVICE_MATCH": 0,
+                "NO_SERVICE_MATCH": 0
+              }
+            }
+          },
+          "targetDocumentSelection": [
+            {
+              "name": "string",
+              "selections": [
+                "string"
+              ],
+              "caseSensitiveSelection": true
+            }
+          ]
+        },
+        "dynamicDeliverySeat": true
+      }
+    ],
+    "matches": [
+      {
+        "wexScore": 0,
+        "matchScore": "string",
+        "matchScoreQuantifiers": [
+          "string"
+        ],
+        "keywordsMatchScore": 0,
+        "requiredKeywordsMatchScore": 0,
+        "niceToHaveKeywordsMatchScore": 0,
+        "matchType": "string",
+        "priorityMatchType": "string",
+        "jrsMatchType": "string",
+        "jrsSimilarityRank": "string",
+        "jrsSimilarityScore": "string",
+        "jrsSimilarityScorePercentile": "string",
+        "projectedTrainingWeeks": "string",
+        "topsisScore": "string",
+        "externalScore": 0,
+        "assignment": {
+          "status": "string",
+          "statusDesc": "string",
+          "date": "string",
+          "assigneeCnum": "string"
+        },
+        "openSeat": {
+          "osID": "string",
+          "title": "string",
+          "type": "string",
+          "csaRequestId": "string",
+          "mySASeatLob": "string",
+          "jobRole": "string",
+          "skillSet": "string",
+          "vendor": "string",
+          "startDate": 0,
+          "startDateFormatted": "string",
+          "endDateFormatted": "string",
+          "endDate": 0,
+          "durationInDays": 0,
+          "keyRole": "string",
+          "pcwFlag": "string",
+          "mysaOpenSeatIndicator": "string",
+          "mySAIndicator": "string",
+          "grProviderCountryIOT": "string",
+          "grProviderCountry": "string",
+          "gicProviderCountryDeliveryCenter": "string",
+          "grEstimatedStartDate": 0,
+          "grProjectManagerMask": "string",
+          "ibmCoverageType": "string",
+          "locUse": "string",
+          "globalBuyingGroupName": "string",
+          "globalBuyingGroupNameFacet": "string",
+          "globalBuyingGroupId": "string",
+          "payTravelAndLodging": "string",
+          "requestedBandLow": "string",
+          "requestedBandHigh": "string",
+          "bandFacet": [
+            "string"
+          ],
+          "subBandFacet": [
+            "string"
+          ],
+          "allBandFacet": [
+            "string"
+          ],
+          "bandRange": 0,
+          "requestedLanguage": [
+            "string"
+          ],
+          "requiredSkills": "string",
+          "niceToHaveSkills": "string",
+          "jrsSkills": "string",
+          "workLocationIOT": "string",
+          "workLocationIMT": "string",
+          "workLocationState": "string",
+          "workLocationCountry": "string",
+          "workLocationCity": "string",
+          "workLocationZip": "string",
+          "mysaWorkLocationIOT": "string",
+          "mysaWorkLocationIMT": "string",
+          "mysaWorkLocationCountry": "string",
+          "mysaWorkLocationState": "string",
+          "mysaWorkLocationCity": "string",
+          "mysaWorkLocationFull": "string",
+          "globalDeliveryCenter": "string",
+          "requestedBandHighSort": "string",
+          "requestedBandLowSort": "string",
+          "accountClassificationSorting": 0,
+          "gbsAccountClassification": "string",
+          "gbsAccountClusterName": "string",
+          "projectContactMask": "string",
+          "projectContact": "string",
+          "projectContactName": "string",
+          "projectContactEmail": "string",
+          "projectContactCnum": "string",
+          "jrs": "string",
+          "industry": "string",
+          "sector": "string",
+          "sectorIndustry": "string",
+          "ica": "string",
+          "contractType": "string",
+          "contractStatus": "string",
+          "contractOwningOrganization": "string",
+          "deliveryOrganization": "string",
+          "fulfillmentOrganization": "string",
+          "financialInterlock": "string",
+          "financialInterlockApprovedTime": 0,
+          "financialInterlockApprovedBy": "string",
+          "priorityRanking": "string",
+          "clientType": "string",
+          "clientName": "string",
+          "globalClientName": "string",
+          "priorityGroupCode": "string",
+          "priorityGroupName": "string",
+          "hoursPerWeek": 0,
+          "projectName": "string",
+          "projectType": "string",
+          "clientProjectName": "string",
+          "claimAccountId": "string",
+          "hireRequestNumber": "string",
+          "projectDescription": "string",
+          "additionalComments": "string",
+          "requestedCompany": "string",
+          "grProgramManagerFullName": "string",
+          "grProgramManagerName": "string",
+          "grProjectManagerFullName": "string",
+          "grProjectManagerName": "string",
+          "urgentPriority": "string",
+          "urgentPriorityReason": "string",
+          "citizenshipResidencyRequired": "string",
+          "neededLandedResourceFlag": "string",
+          "preferredFulfillmentCountry": "string",
+          "preferredResourceChannel": "string",
+          "laborCategory": "string",
+          "casCompliant": "string",
+          "estimatedCostRate": 0,
+          "contractorRequestType": "string",
+          "opportunityOwnerName": "string",
+          "opportunityName": "string",
+          "opportunityCrmId": "string",
+          "staffingPlanId": 0,
+          "staffingPlanName": "string",
+          "externalReference": "string",
+          "rpaId": "string",
+          "metroRequestId": 0,
+          "metroAwareFlag": "string",
+          "tramRequestId": "string",
+          "csegConfirmFlag": "string",
+          "csegEnableFlag": "string",
+          "csegRestriction": "string",
+          "csegComments": "string",
+          "csegDeliveryCountryType": "string",
+          "csegCountryName": "string",
+          "csegOwnerName": "string",
+          "createTime": 0,
+          "createUserName": "string",
+          "openTime": 0,
+          "openUserName": "string",
+          "lastUpdateTime": 0,
+          "lastUpdateUserName": "string",
+          "workRemote": "string",
+          "service": "string",
+          "serviceArea": "string",
+          "serviceServiceArea": "string",
+          "serviceComponent": "string",
+          "positionDescription": "string",
+          "positionsRequired": 0,
+          "positionsFilled": 0,
+          "positionsStillNeeded": 0,
+          "candidateTrackingStatus": "string",
+          "acceptContractors": "string",
+          "backfill": "string",
+          "backfillType": "string",
+          "backfillReason": "string",
+          "fulfillmentRisk": "string",
+          "fulfillmentRiskSort": 0,
+          "fulfillmentSource": "string",
+          "ownerCountry": "string",
+          "ownerCountryIot": "string",
+          "ownerCountryImt": "string",
+          "ownerName": "string",
+          "delegateUserId": "string",
+          "delegateName": "string",
+          "additionalEditorName": [
+            "string"
+          ],
+          "additionalEditorsIndexedTimeSeconds": 0,
+          "fulfillmentManagerName": "string",
+          "deliveryExecutive": "string",
+          "callStatus": "string",
+          "securityClearanceType": "string",
+          "securityClearanceDesc": "string",
+          "dynamicDelivery": "string",
+          "dynamicDeliveryOverlappingHours": "string",
+          "dynamicDeliveryLocationCountry": "string",
+          "dynamicDeliveryLocationCity": "string",
+          "dynamicDeliveryLocationState": "string",
+          "dynamicDeliveryLocationTimeZone": "string",
+          "tramId": "string",
+          "tramPriorityScore": 0,
+          "tramPriorityTier": 0,
+          "positionCandidates": [
+            "string"
+          ],
+          "similarJRS": [
+            {
+              "jrsA": "string",
+              "jrsB": "string",
+              "getaToBProjectedTrainingWeeks": "string",
+              "getbToAProjectedTrainingWeeks": "string",
+              "similaryRanking": 0,
+              "similarityScore": 0,
+              "similarityScorePercentile": 0,
+              "jrs": "string",
+              "lob": "string"
+            }
+          ],
+          "requiredSkillsKeywords": [
+            {
+              "keyword": "string",
+              "filterLogic": "MUST_HAVE",
+              "synonyms": [
+                "string"
+              ]
+            }
+          ],
+          "mustHaveKeywords": [
+            {
+              "keyword": "string",
+              "filterLogic": "MUST_HAVE",
+              "synonyms": [
+                "string"
+              ]
+            }
+          ],
+          "niceToHaveKeywords": [
+            {
+              "keyword": "string",
+              "filterLogic": "MUST_HAVE",
+              "synonyms": [
+                "string"
+              ]
+            }
+          ],
+          "partition": {
+            "name": "string",
+            "description": "string",
+            "criteria": [
+              {
+                "name": "string",
+                "selections": [
+                  "string"
+                ],
+                "caseSensitiveSelection": true
+              }
+            ],
+            "enableToOnlyTheseApplications": [
+              "MYSA"
+            ],
+            "matchingRules": {
+              "matchMySAScope": {
+                "enabled": true,
+                "enableContractors": true
+              },
+              "matchResourceType": {
+                "enabled": true
+              },
+              "matchLob": {
+                "enabled": true
+              },
+              "matchWorkLocation": {
+                "enabled": true,
+                "matchMethod": "IOT"
+              },
+              "matchAvailabilityDate": {
+                "enabled": true,
+                "immediateAvailabilityDays": 0,
+                "earlyArrivalDays": 0,
+                "lateArrivalDays": 0,
+                "lowForecastedHoursThreshold": 0
+              },
+              "matchBand": {
+                "enabled": true,
+                "lowBandSlack": 0,
+                "highBandSlack": 0,
+                "matchNextBand": true
+              },
+              "matchLanguages": {
+                "enabled": true,
+                "mustMatchAllSeatLanguages": true
+              },
+              "matchKeywords": {
+                "enabled": true,
+                "maxMustHaveKeywords": 0,
+                "maxNiceToHaveKeywords": 0
+              },
+              "matchJrs": {
+                "enabled": true,
+                "matchPrimaryJrs": true,
+                "matchSecondaryJrs": true,
+                "matchAdjacentJrs": true,
+                "matchNextJrs": true,
+                "maxJrsSimilarityRank": 0,
+                "minJrsSimilarityScorePercentile": 0,
+                "minSecJrsAssessmentLevel": 0,
+                "minSecJrsAssessmentType": "string",
+                "disableSecondaryAndAdjacentForB5AndAbove": true
+              },
+              "matchPriority": {
+                "enabled": true
+              },
+              "matchDynamicDelivery": {
+                "enabled": true
+              }
+            },
+            "rankingRules": {
+              "sortOrder": [
+                "WEX_SCORE"
+              ],
+              "topsisConfiguration": {
+                "balancePdiWeightWithJrsTechnicality": true,
+                "criteria": [
+                  {
+                    "name": "MATCH_SCORE",
+                    "weight": 0,
+                    "negative": true
+                  }
+                ]
+              },
+              "matchScoreConfiguration": {
+                "quantifiers": [
+                  "JRS_SCORE"
+                ],
+                "jrsQuantifiers": {
+                  "PRIMARY_JRS_MATCH": 0,
+                  "NEXT_JRS_MATCH": 0,
+                  "SECONDARY_JRS_MATCH": 0,
+                  "ADJACENT_JRS_MATCH_100": 0,
+                  "ADJACENT_JRS_MATCH_90": 0,
+                  "ADJACENT_JRS_MATCH_80": 0,
+                  "ADJACENT_JRS_MATCH_70": 0,
+                  "ADJACENT_JRS_MATCH_60": 0,
+                  "ADJACENT_JRS_MATCH_50": 0,
+                  "ADJACENT_JRS_MATCH_40": 0,
+                  "ADJACENT_JRS_MATCH_30": 0,
+                  "ADJACENT_JRS_MATCH_20": 0,
+                  "ADJACENT_JRS_MATCH_10": 0,
+                  "NO_JRS_MATCH": 0
+                },
+                "requiredSkillsQuantifiers": {
+                  "REQUIRED_SKILLS_MATCH_100": 0,
+                  "REQUIRED_SKILLS_MATCH_90": 0,
+                  "REQUIRED_SKILLS_MATCH_80": 0,
+                  "REQUIRED_SKILLS_MATCH_70": 0,
+                  "REQUIRED_SKILLS_MATCH_60": 0,
+                  "REQUIRED_SKILLS_MATCH_50": 0,
+                  "REQUIRED_SKILLS_MATCH_40": 0,
+                  "REQUIRED_SKILLS_MATCH_30": 0,
+                  "REQUIRED_SKILLS_MATCH_20": 0,
+                  "REQUIRED_SKILLS_MATCH_10": 0,
+                  "NO_REQUIRED_SKILLS_MATCH": 0,
+                  "REQUIRED_SKILLS_NOT_PROVIDED": 0
+                },
+                "niceToHaveSkillsQuantifiers": {
+                  "NICE_TO_HAVE_SKILLS_MATCH_100": 0,
+                  "NICE_TO_HAVE_SKILLS_MATCH_90": 0,
+                  "NICE_TO_HAVE_SKILLS_MATCH_80": 0,
+                  "NICE_TO_HAVE_SKILLS_MATCH_70": 0,
+                  "NICE_TO_HAVE_SKILLS_MATCH_60": 0,
+                  "NICE_TO_HAVE_SKILLS_MATCH_50": 0,
+                  "NICE_TO_HAVE_SKILLS_MATCH_40": 0,
+                  "NICE_TO_HAVE_SKILLS_MATCH_30": 0,
+                  "NICE_TO_HAVE_SKILLS_MATCH_20": 0,
+                  "NICE_TO_HAVE_SKILLS_MATCH_10": 0,
+                  "NO_NICE_TO_HAVE_SKILLS_MATCH": 0
+                },
+                "bandQuantifiers": {
+                  "BAND_WITHIN_RANGE": 0,
+                  "BAND_BELOW_1_RANGE": 0,
+                  "BAND_ABOVE_1_RANGE": 0,
+                  "NO_BAND_MATCH": 0,
+                  "NEXT_BAND_MATCH": 0
+                },
+                "languageQuantifiers": {
+                  "LANGUAGES_MATCH_FULL": 0,
+                  "LANGUAGES_MATCH_PARTIAL": 0,
+                  "NO_LANGUAGES_MATCH": 0,
+                  "LANGUAGES_NOT_REQUIRED": 0
+                },
+                "locationQuantifiers": {
+                  "LOCATION_SAME_CITY": 0,
+                  "LOCATION_SAME_COUNTRY": 0,
+                  "LOCATION_SAME_MARKET": 0,
+                  "LOCATION_SAME_GEO_IOT": 0,
+                  "NO_LOCATION_MATCH": 0
+                },
+                "timezoneQuantifiers": {
+                  "TIMEZONE_DELIVERY_CENTER_MATCH": 0,
+                  "TIMEZONE_BEST_COUNTRY_MATCH": 0,
+                  "TIMEZONE_MATCH_GIC_STANDARD": 0,
+                  "TIMEZONE_MATCH_GIC_EXTENDED": 0,
+                  "TIMEZONE_CONTRACT_OWNING_COUNTRY_MATCH": 0,
+                  "TIMEZONE_CONTRACT_OWNING_GEO_MATCH": 0,
+                  "TIMEZONE_MATCH_GEO_STANDARD": 0,
+                  "TIMEZONE_MATCH_GEO_EXTENDED": 0,
+                  "TIMEZONE_NO_MATCH": 0
+                },
+                "availabilityDateQuantifiers": {
+                  "AVAIL_DATE_WITHIN_7_DAYS_OF_START_DATE": 0,
+                  "AVAIL_DATE_WITHIN_14_DAYS_OF_START_DATE": 0,
+                  "AVAIL_DATE_NOT_WITHIN_14_DAYS_RANGE": 0,
+                  "PRACTITIONER_AVAILABLE_NOW": 0,
+                  "PRACTITIONER_AVAILABLE_WITHIN_7_DAYS": 0,
+                  "PRACTITIONER_AVAILABLE_WITHIN_8_14_DAYS": 0,
+                  "PRACTITIONER_AVAILABLE_WITHIN_15_21_DAYS": 0,
+                  "PRACTITIONER_AVAILABLE_WITHIN_22_30_DAYS": 0,
+                  "PRACTITIONER_NOT_AVAILABLE_WITHIN_30_DAYS": 0
+                },
+                "serviceQuantifiers": {
+                  "SERVICE_AREA_MATCH": 0,
+                  "SERVICE_MATCH": 0,
+                  "NO_SERVICE_MATCH": 0
+                }
+              }
+            },
+            "targetDocumentSelection": [
+              {
+                "name": "string",
+                "selections": [
+                  "string"
+                ],
+                "caseSensitiveSelection": true
+              }
+            ]
+          },
+          "dynamicDeliverySeat": true
+        },
+        "practitioner": {
+          "availabilityDate": "2025-03-06T18:53:51.841Z",
+          "availabilityDateSeconds": 0,
+          "availabilityDateWithOffset": 0,
+          "extensionDateFlag": "string",
+          "availabilityDateLockFlag": "string",
+          "badges": [
+            "string"
+          ],
+          "band": "string",
+          "subBand": "string",
+          "originalBand": "string",
+          "bandSort": "string",
+          "cellPhone": "string",
+          "certifications": "string",
+          "cnum": "string",
+          "serialNumber": "string",
+          "countryCode": "string",
+          "purchaseOrderNumber": "string",
+          "priceLevel": "string",
+          "deployability": "string",
+          "email": "string",
+          "fullName": "string",
+          "firstName": "string",
+          "middleName": "string",
+          "lastName": "string",
+          "sapCompanyName": "string",
+          "emfCompanyCode": "string",
+          "countryCompanyLabel": "string",
+          "industry": "string",
+          "industryExperience": "string",
+          "industryExpertise": "string",
+          "industryExpertiseFacet": "string",
+          "jobRole": "string",
+          "jobResponsibility": "string",
+          "language": [
+            "string"
+          ],
+          "languageFacet": [
+            "string"
+          ],
+          "languageProficiencyFacet": [
+            "string"
+          ],
+          "lastWeekUtilization": 0,
+          "lastWeekUtilizationFacet": "string",
+          "lastWeekUtilizationIndexedTimeSeconds": 0,
+          "managerEmailAddress": "string",
+          "executiveJobRole": "string",
+          "managerName": "string",
+          "rsaName": "string",
+          "staffingReviewerName": "string",
+          "managerValues": "string",
+          "mysaCostRate": "string",
+          "fiscaName": "string",
+          "costRateAmOnshoreFacet": 0,
+          "costRateNonAmOnshoreFacet": 0,
+          "costRateOffshoreFacet": 0,
+          "costRateUsFdFacet": 0,
+          "costRateUsNpFacet": 0,
+          "costRateUsOdFacet": 0,
+          "costRateUsPcFacet": 0,
+          "costRateOtherFacet": 0,
+          "costRateAmOnShoreFd": 0,
+          "costRateAmOnShoreNp": 0,
+          "costRateAmOnShoreOd": 0,
+          "costRateAmOnShorePc": 0,
+          "costRateNonAmOnshoreFd": 0,
+          "costRateNonAmOnshoreNp": 0,
+          "costRateNonAmOnshoreOd": 0,
+          "costRateNonAmOnshorePc": 0,
+          "costRateOffshoreFd": 0,
+          "costRateOffshoreNp": 0,
+          "costRateOffshoreOd": 0,
+          "costRateOffshorePc": 0,
+          "practitionerIndicator": "string",
+          "contractorFlag": "string",
+          "mysaPractitionerIndicator": "string",
+          "promotionReadyFlag": "string",
+          "promotionNextJrs": "string",
+          "promotionNextBand": "string",
+          "mysaTPLob": "string",
+          "next4WeeksChargeableHours": 0,
+          "next4WeeksChargeableHoursFacet": "string",
+          "next4WeeksChargeableHoursPromFacet": "string",
+          "practitionerId": "string",
+          "employeeTypeDesc": "string",
+          "rulesOfEngagement": "string",
+          "division": "string",
+          "practitionerIdPersonalInfRule": "string",
+          "primaryJrss": "string",
+          "primaryJrsSkills": [
+            "string"
+          ],
+          "rdmComments": "string",
+          "proposedCustomer": "string",
+          "resourceType": "string",
+          "resumeText": [
+            "string"
+          ],
+          "resumeMask": [
+            "string"
+          ],
+          "resumeLinks": [
+            "string"
+          ],
+          "resumeFile": [
+            "string"
+          ],
+          "clients": "string",
+          "rsaValues": "string",
+          "secondaryJrss": "string",
+          "title": "string",
+          "allJrss": [
+            "string"
+          ],
+          "allJrsList": [
+            "string"
+          ],
+          "skills": [
+            "string"
+          ],
+          "skillSet": "string",
+          "staffingReviewerValues": "string",
+          "tpProfessionalId": "string",
+          "talentPoolId": "string",
+          "talentPoolName": "string",
+          "tpType": "string",
+          "talentPoolOrg": "string",
+          "mobilityInd": "string",
+          "visaCountry": [
+            "string"
+          ],
+          "visaExpirationDate": [
+            "string"
+          ],
+          "visaStatus": [
+            "string"
+          ],
+          "visaType": [
+            "string"
+          ],
+          "visaMask": [
+            "string"
+          ],
+          "workPhoneNumber": "string",
+          "globalDeliveryCenter": "string",
+          "workLocationCity": "string",
+          "workLocationCountry": "string",
+          "workLocationFull": "string",
+          "workLocationIMT": "string",
+          "workLocationIOT": "string",
+          "workLocationState": "string",
+          "workLocationTimezone": "string",
+          "geoSpecificOrganization": "string",
+          "service": "string",
+          "serviceArea": "string",
+          "serviceServiceArea": "string",
+          "sector": "string",
+          "sectorIndustry": "string",
+          "professionalDevelopmentIndex": "string",
+          "cocName": "string",
+          "competency": "string",
+          "competencySegment": "string",
+          "competencyCompetencySegment": "string",
+          "department": "string",
+          "isvVendor": "string",
+          "isvVendorFacet": "string",
+          "availableRotation": 0,
+          "rotationStatus": "string",
+          "rotationEffectiveDate": "2025-03-06T18:53:51.841Z",
+          "mysaRotationStatus": "string",
+          "mysaRotationEffectiveDate": "2025-03-06T18:53:51.841Z",
+          "rotationIndexedTimeSeconds": "string",
+          "gbsEarlyProfHireProgram": "string",
+          "preferFlexibleWorkSchedule": "string",
+          "preferFelixibleWorkScheduleFacet": "string",
+          "preferRemoteWork": "string",
+          "preferRemoteWorkFacet": "string",
+          "preferWorkLocationComments": "string",
+          "preferWorkLocationIOT": [
+            "string"
+          ],
+          "preferWorkLocationsHierarchy": [
+            "string"
+          ],
+          "preferWorkLocations": [
+            "string"
+          ],
+          "similarJRS": [
+            {
+              "jrsA": "string",
+              "jrsB": "string",
+              "getaToBProjectedTrainingWeeks": "string",
+              "getbToAProjectedTrainingWeeks": "string",
+              "similaryRanking": 0,
+              "similarityScore": 0,
+              "similarityScorePercentile": 0,
+              "jrs": "string",
+              "lob": "string"
+            }
+          ],
+          "resumeKeywords": [
+            "string"
+          ],
+          "jrsKeywords": [
+            "string"
+          ],
+          "badgesKeywords": [
+            "string"
+          ],
+          "certificationKeywords": [
+            "string"
+          ],
+          "skillsKeywords": [
+            "string"
+          ],
+          "primaryJrsSkillsKeywords": [
+            "string"
+          ],
+          "similarJrsKeywords": [
+            "string"
+          ],
+          "rdmCommentsKeywords": [
+            "string"
+          ],
+          "mustHaveKeywords": [
+            {
+              "keyword": "string",
+              "filterLogic": "MUST_HAVE",
+              "synonyms": [
+                "string"
+              ]
+            }
+          ],
+          "niceToHaveKeywords": [
+            {
+              "keyword": "string",
+              "filterLogic": "MUST_HAVE",
+              "synonyms": [
+                "string"
+              ]
+            }
+          ],
+          "partition": {
+            "name": "string",
+            "description": "string",
+            "criteria": [
+              {
+                "name": "string",
+                "selections": [
+                  "string"
+                ],
+                "caseSensitiveSelection": true
+              }
+            ],
+            "enableToOnlyTheseApplications": [
+              "MYSA"
+            ],
+            "matchingRules": {
+              "matchMySAScope": {
+                "enabled": true,
+                "enableContractors": true
+              },
+              "matchResourceType": {
+                "enabled": true
+              },
+              "matchLob": {
+                "enabled": true
+              },
+              "matchWorkLocation": {
+                "enabled": true,
+                "matchMethod": "IOT"
+              },
+              "matchAvailabilityDate": {
+                "enabled": true,
+                "immediateAvailabilityDays": 0,
+                "earlyArrivalDays": 0,
+                "lateArrivalDays": 0,
+                "lowForecastedHoursThreshold": 0
+              },
+              "matchBand": {
+                "enabled": true,
+                "lowBandSlack": 0,
+                "highBandSlack": 0,
+                "matchNextBand": true
+              },
+              "matchLanguages": {
+                "enabled": true,
+                "mustMatchAllSeatLanguages": true
+              },
+              "matchKeywords": {
+                "enabled": true,
+                "maxMustHaveKeywords": 0,
+                "maxNiceToHaveKeywords": 0
+              },
+              "matchJrs": {
+                "enabled": true,
+                "matchPrimaryJrs": true,
+                "matchSecondaryJrs": true,
+                "matchAdjacentJrs": true,
+                "matchNextJrs": true,
+                "maxJrsSimilarityRank": 0,
+                "minJrsSimilarityScorePercentile": 0,
+                "minSecJrsAssessmentLevel": 0,
+                "minSecJrsAssessmentType": "string",
+                "disableSecondaryAndAdjacentForB5AndAbove": true
+              },
+              "matchPriority": {
+                "enabled": true
+              },
+              "matchDynamicDelivery": {
+                "enabled": true
+              }
+            },
+            "rankingRules": {
+              "sortOrder": [
+                "WEX_SCORE"
+              ],
+              "topsisConfiguration": {
+                "balancePdiWeightWithJrsTechnicality": true,
+                "criteria": [
+                  {
+                    "name": "MATCH_SCORE",
+                    "weight": 0,
+                    "negative": true
+                  }
+                ]
+              },
+              "matchScoreConfiguration": {
+                "quantifiers": [
+                  "JRS_SCORE"
+                ],
+                "jrsQuantifiers": {
+                  "PRIMARY_JRS_MATCH": 0,
+                  "NEXT_JRS_MATCH": 0,
+                  "SECONDARY_JRS_MATCH": 0,
+                  "ADJACENT_JRS_MATCH_100": 0,
+                  "ADJACENT_JRS_MATCH_90": 0,
+                  "ADJACENT_JRS_MATCH_80": 0,
+                  "ADJACENT_JRS_MATCH_70": 0,
+                  "ADJACENT_JRS_MATCH_60": 0,
+                  "ADJACENT_JRS_MATCH_50": 0,
+                  "ADJACENT_JRS_MATCH_40": 0,
+                  "ADJACENT_JRS_MATCH_30": 0,
+                  "ADJACENT_JRS_MATCH_20": 0,
+                  "ADJACENT_JRS_MATCH_10": 0,
+                  "NO_JRS_MATCH": 0
+                },
+                "requiredSkillsQuantifiers": {
+                  "REQUIRED_SKILLS_MATCH_100": 0,
+                  "REQUIRED_SKILLS_MATCH_90": 0,
+                  "REQUIRED_SKILLS_MATCH_80": 0,
+                  "REQUIRED_SKILLS_MATCH_70": 0,
+                  "REQUIRED_SKILLS_MATCH_60": 0,
+                  "REQUIRED_SKILLS_MATCH_50": 0,
+                  "REQUIRED_SKILLS_MATCH_40": 0,
+                  "REQUIRED_SKILLS_MATCH_30": 0,
+                  "REQUIRED_SKILLS_MATCH_20": 0,
+                  "REQUIRED_SKILLS_MATCH_10": 0,
+                  "NO_REQUIRED_SKILLS_MATCH": 0,
+                  "REQUIRED_SKILLS_NOT_PROVIDED": 0
+                },
+                "niceToHaveSkillsQuantifiers": {
+                  "NICE_TO_HAVE_SKILLS_MATCH_100": 0,
+                  "NICE_TO_HAVE_SKILLS_MATCH_90": 0,
+                  "NICE_TO_HAVE_SKILLS_MATCH_80": 0,
+                  "NICE_TO_HAVE_SKILLS_MATCH_70": 0,
+                  "NICE_TO_HAVE_SKILLS_MATCH_60": 0,
+                  "NICE_TO_HAVE_SKILLS_MATCH_50": 0,
+                  "NICE_TO_HAVE_SKILLS_MATCH_40": 0,
+                  "NICE_TO_HAVE_SKILLS_MATCH_30": 0,
+                  "NICE_TO_HAVE_SKILLS_MATCH_20": 0,
+                  "NICE_TO_HAVE_SKILLS_MATCH_10": 0,
+                  "NO_NICE_TO_HAVE_SKILLS_MATCH": 0
+                },
+                "bandQuantifiers": {
+                  "BAND_WITHIN_RANGE": 0,
+                  "BAND_BELOW_1_RANGE": 0,
+                  "BAND_ABOVE_1_RANGE": 0,
+                  "NO_BAND_MATCH": 0,
+                  "NEXT_BAND_MATCH": 0
+                },
+                "languageQuantifiers": {
+                  "LANGUAGES_MATCH_FULL": 0,
+                  "LANGUAGES_MATCH_PARTIAL": 0,
+                  "NO_LANGUAGES_MATCH": 0,
+                  "LANGUAGES_NOT_REQUIRED": 0
+                },
+                "locationQuantifiers": {
+                  "LOCATION_SAME_CITY": 0,
+                  "LOCATION_SAME_COUNTRY": 0,
+                  "LOCATION_SAME_MARKET": 0,
+                  "LOCATION_SAME_GEO_IOT": 0,
+                  "NO_LOCATION_MATCH": 0
+                },
+                "timezoneQuantifiers": {
+                  "TIMEZONE_DELIVERY_CENTER_MATCH": 0,
+                  "TIMEZONE_BEST_COUNTRY_MATCH": 0,
+                  "TIMEZONE_MATCH_GIC_STANDARD": 0,
+                  "TIMEZONE_MATCH_GIC_EXTENDED": 0,
+                  "TIMEZONE_CONTRACT_OWNING_COUNTRY_MATCH": 0,
+                  "TIMEZONE_CONTRACT_OWNING_GEO_MATCH": 0,
+                  "TIMEZONE_MATCH_GEO_STANDARD": 0,
+                  "TIMEZONE_MATCH_GEO_EXTENDED": 0,
+                  "TIMEZONE_NO_MATCH": 0
+                },
+                "availabilityDateQuantifiers": {
+                  "AVAIL_DATE_WITHIN_7_DAYS_OF_START_DATE": 0,
+                  "AVAIL_DATE_WITHIN_14_DAYS_OF_START_DATE": 0,
+                  "AVAIL_DATE_NOT_WITHIN_14_DAYS_RANGE": 0,
+                  "PRACTITIONER_AVAILABLE_NOW": 0,
+                  "PRACTITIONER_AVAILABLE_WITHIN_7_DAYS": 0,
+                  "PRACTITIONER_AVAILABLE_WITHIN_8_14_DAYS": 0,
+                  "PRACTITIONER_AVAILABLE_WITHIN_15_21_DAYS": 0,
+                  "PRACTITIONER_AVAILABLE_WITHIN_22_30_DAYS": 0,
+                  "PRACTITIONER_NOT_AVAILABLE_WITHIN_30_DAYS": 0
+                },
+                "serviceQuantifiers": {
+                  "SERVICE_AREA_MATCH": 0,
+                  "SERVICE_MATCH": 0,
+                  "NO_SERVICE_MATCH": 0
+                }
+              }
+            },
+            "targetDocumentSelection": [
+              {
+                "name": "string",
+                "selections": [
+                  "string"
+                ],
+                "caseSensitiveSelection": true
+              }
+            ]
+          },
+          "inBench": true
+        }
+      }
+    ]
+  }
+}
